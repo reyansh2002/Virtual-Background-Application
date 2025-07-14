@@ -24,7 +24,7 @@ A simple and powerful desktop application that allows users to apply **virtual b
 
 ![image ult](https://github.com/reyansh2002/Virtual-Background-Application/blob/3002d789d567830a1d1e1c5249e9b649e9dbfc2c/%F0%9F%8E%A5%20Virtual%20Background%20Recorder%2005-05-2025%2013_12_59.png)
 
-
+![image ult](https://github.com/reyansh2002/Virtual-Background-Application/blob/98d44088067740703552d3dd6a0f07667fd71c06/Virtual%20Background%2005-05-2025%2013_28_01.png)
 
 
 ## 🛠️ Tech Stack
