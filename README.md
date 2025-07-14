@@ -20,6 +20,7 @@ A simple and powerful desktop application that allows users to apply **virtual b
 ---
 
 ## SCREENSHOTS ##
+![image ult](https://github.com/reyansh2002/Virtual-Background-Application/blob/d99c2e9cc0fcdd09b2681af22d70989549bddf8d/%F0%9F%8E%A5%20Virtual%20Background%20Recorder%2004-05-2025%2022_31_50.png)
 
 
 
